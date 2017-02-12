@@ -1,0 +1,28 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cabin', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#main-header {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.4)), url("https://secure.static.tumblr.com/1aa3b42922f50771fe284122d13fb386/ddn92b9/9caol0vzd/tumblr_static_61vcyt04edgk8okkkw0g0kks0.jpg");
+    background-position: bottom;
+    background-size: 100%;
+    min-height: 300px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sunny Zhou -- @quatridunull
+
+# THANKS
+
+    Thanks to Brian Love of the University of Michigan for organizing this trip!
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
