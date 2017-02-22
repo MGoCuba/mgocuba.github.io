@@ -16,7 +16,8 @@ body {
 #main-header {
     background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.4)), url("https://secure.static.tumblr.com/1aa3b42922f50771fe284122d13fb386/ddn92b9/9caol0vzd/tumblr_static_61vcyt04edgk8okkkw0g0kks0.jpg");
     background-position: bottom;
-    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 300px;
 }
 
